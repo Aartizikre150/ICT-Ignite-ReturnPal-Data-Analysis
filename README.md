@@ -1,7 +1,7 @@
 # 📊 ICT Ignite – ReturnPal Data Analysis
 
 <p align="center">
-  <img src="./images/ict-ignite-banner.png" alt="ICT Ignite ReturnPal Data Analysis" width="100%">
+  <img src="./Images/Banner.jpg" alt="ICT Ignite ReturnPal Data Analysis" width="100%">
 </p>
 
 ---
